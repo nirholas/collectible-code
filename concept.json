@@ -1,0 +1,11 @@
+{
+  "slug": "collectible-code",
+  "name": "Collectible Code",
+  "kind": "art",
+  "description": "Package executable creative-code sketches with an immutable source hash.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
