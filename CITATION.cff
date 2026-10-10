@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "collectible-code"
+abstract: "Package executable creative-code sketches with an immutable source hash."
+repository-code: "https://github.com/nirholas/collectible-code"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
